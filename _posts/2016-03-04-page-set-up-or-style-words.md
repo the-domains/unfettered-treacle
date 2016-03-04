@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T04:36:35.039Z'
-dateModified: '2016-03-04T04:36:29.035Z'
+datePublished: '2016-03-04T04:42:50.839Z'
+dateModified: '2016-03-04T04:42:14.831Z'
 title: Page Set-up or Style words
 author: []
 sourcePath: _posts/2016-03-04-page-set-up-or-style-words.md
