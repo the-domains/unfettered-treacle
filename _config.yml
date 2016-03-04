@@ -1,6 +1,6 @@
 name: Unfettered Treacle
 favicon: null
-layout_spectrum: 0.42923
+layout_spectrum: 0.75276
 typography_spectrum: 1
 title: Unfettered Treacle - Novelist Todd R. Moody
 cta:
@@ -22,8 +22,8 @@ color:
     - '#8697a9'
     - '#141623'
     - '#94c180'
-  brandStrength: 0.6875
-  lightness: 0.5
-  saturation: 0.0625
+  brandStrength: 1
+  lightness: 0.8125
+  saturation: 0.25
   rhythmicContrast: 0.75
 purpose: []
