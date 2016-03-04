@@ -1,0 +1,28 @@
+name: Unfettered Treacle
+favicon: null
+layout_spectrum: 0.15968414046801627
+typography_spectrum: 0.13542322884313762
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6062298191245645
+  lightness: 0.4305972564034164
+  saturation: 0.2993264540564269
+  rhythmicContrast: 0.5287503055296838
+purpose: []
