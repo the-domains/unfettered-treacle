@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T04:35:37.437Z'
-dateModified: '2016-03-04T04:35:35.126Z'
+datePublished: '2016-03-04T04:36:35.039Z'
+dateModified: '2016-03-04T04:36:29.035Z'
 title: Page Set-up or Style words
 author: []
 sourcePath: _posts/2016-03-04-page-set-up-or-style-words.md
@@ -27,7 +27,7 @@ _type: Article
 
 ### Writer's Lexicon
 
-I'm actively compiling this list to benefit writers of varying levels of emersion in the waters of authordom, to help us look less stupid or simply to help you navigate the world of writing a little more confidently.
+I'm actively compiling this list to benefit writers of varying levels of immersion in the waters of authordom, to help us look less stupid or simply to help you navigate the world of writing a little more confidently.
 
 I am taking suggestions to add to this list, it's not complete by any stretch.  I am particularly interested in 'writer-culture' words. Or, perhaps you disagree with my definition. I'd like to hear about that as well.
 
