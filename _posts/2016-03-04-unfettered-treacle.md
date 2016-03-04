@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T04:11:12.477Z'
-dateModified: '2016-03-04T03:02:50.165Z'
+datePublished: '2016-03-04T04:37:04.605Z'
+dateModified: '2016-03-04T04:11:14.036Z'
 title: Unfettered Treacle
 author: []
 sourcePath: _posts/2016-03-04-unfettered-treacle.md
@@ -29,12 +29,12 @@ Unfettered
 * verb (used
 with object)
 
-* 1\. to free
+* to free
 restraint; liberate.
 
 Treacle
 
 * noun
 
-* 1\. contrived
+* contrived
 or unrestrained sentimentality
