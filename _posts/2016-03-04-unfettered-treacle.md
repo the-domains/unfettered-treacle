@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T03:02:41.216Z'
-dateModified: '2016-03-04T03:02:31.586Z'
+datePublished: '2016-03-04T04:11:12.477Z'
+dateModified: '2016-03-04T03:02:50.165Z'
 title: Unfettered Treacle
 author: []
+sourcePath: _posts/2016-03-04-unfettered-treacle.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-04-unfettered-treacle.md
-published: true
 url: unfettered-treacle/index.html
 _type: Article
 
