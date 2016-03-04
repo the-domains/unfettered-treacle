@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-04T04:42:50.839Z'
-dateModified: '2016-03-04T04:42:14.831Z'
+datePublished: '2016-03-04T04:44:34.814Z'
+dateModified: '2016-03-04T04:44:22.786Z'
 title: Page Set-up or Style words
 author: []
 sourcePath: _posts/2016-03-04-page-set-up-or-style-words.md
