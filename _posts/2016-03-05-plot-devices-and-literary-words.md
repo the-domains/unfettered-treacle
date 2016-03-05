@@ -6,22 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T01:02:55.470Z'
-dateModified: '2016-03-05T01:02:34.475Z'
-title: Plot Devices and literary words
+datePublished: '2016-03-05T01:06:45.034Z'
+dateModified: '2016-03-05T01:06:35.781Z'
+title: "Writer's Lexicon"
 author: []
+sourcePath: _posts/2016-03-05-plot-devices-and-literary-words.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-plot-devices-and-literary-words.md
-published: true
 url: plot-devices-and-literary-words/index.html
 _type: Article
 
 ---
+# Writer's Lexicon
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a35d977e-f571-499f-b610-df46566accb6.jpg)
 
 I'm actively compiling this list to benefit
